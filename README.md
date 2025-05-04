@@ -1,5 +1,74 @@
-<header>
+<<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Dog Around – the ultimate tetherball toy for active dogs.">
+  <title>Dog Around – Tetherball for Dogs</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fefefe;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+    }
+    .features {
+      margin-top: 2rem;
+    }
+    footer {
+      background-color: #eee;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Dog Around</h1>
+    <p>The Ultimate Tetherball Toy for Dogs</p>
+  </header>
 
+  <main>
+    <img src="https://via.placeholder.com/800x400?text=Dog+Around+Tetherball" alt="Dog Around tetherball toy">
+
+    <section class="features">
+      <h2>Why Dog Around?</h2>
+      <ul>
+        <li>Durable materials for long-lasting fun</li>
+        <li>Designed for dogs of all sizes</li>
+        <li>Easy to set up in your yard</li>
+        <li>Encourages exercise and healthy play</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Order Now!</h2>
+      <p>Available soon on all major pet product platforms. Stay tuned!</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Dog Around. All rights reserved.</p>
+  </footer>
+</body>
+</html>
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
